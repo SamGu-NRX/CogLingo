@@ -119,7 +119,7 @@ _"December and January are nice months to spend in Miami."_
 - **Model**: Wav2Vec 2.0 (ASR Model)  
 - **Data**: TIMIT dataset  
 - **Techniques**: Phoneme extraction/analysis, Dynamic Time Warping, fine-tuning  
-- **Tools**: PyTorch, GPU-enabled training  
+- **Tools**: PyTorch (GPU-enabled training), Gradio
 
 ---
 
